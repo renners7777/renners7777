@@ -6,7 +6,7 @@
 - twitter: @renners7777
 - email: chrisrenshaw79@gmail.com
 -linkedin: https://www.linkedin.com/in/chris-renshaw-08bb33244/
-- Check out my blog at https://chrisrenshaw.hashnode.dev/
+- Check out my blog (still in development) at https://chrisrenshaw.hashnode.dev/
 - Check out my profile (still in development) at https://chrisrenshaw.net/
 
 <!---
@@ -14,3 +14,4 @@ renners7777/renners7777 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Update 12-10-22: Currently collaborating on an opensource project for Hacktoberfest2022 - OS_100days.
+Update 15-10-22: Currently learning Bash with Coding with Drew and C# on Pluralsight.
