@@ -14,4 +14,5 @@ renners7777/renners7777 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Update 12-10-22: Currently collaborating on an opensource project for Hacktoberfest2022 - OS_100days.
+
 Update 15-10-22: Currently learning Bash with Coding with Drew and C# on Pluralsight.
