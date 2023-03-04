@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on opensource projects and freelance work.
 - 📫 How to reach me:
 - twitter: @renners7777
-- email: chrisrenshaw79@gmail.com
+- email: ChrisRenshaw.SoftwareEngineer@outlook.com
 -linkedin: https://www.linkedin.com/in/chris-renshaw-renners7777/
 - Check out my blog at https://chrisrenshaw.hashnode.dev/
 - Check out my portfolio at https://chrisrenshaw.net/
