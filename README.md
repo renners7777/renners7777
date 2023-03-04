@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Renshaw
-- I am a software engineer at 100
-- 💞️ I’m looking to collaborate on...opensource projects and freelance work.
+- I am a software engineer at 100devs
+- 💞️ I’m looking to collaborate on opensource projects and freelance work.
 - 📫 How to reach me:
 - twitter: @renners7777
 - email: chrisrenshaw79@gmail.com
