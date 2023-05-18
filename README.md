@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **node.js, express, mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://chrisrenshaw.net/](https://chrisrenshaw.net/)
+- 👨‍💻 All of my projects are available at [https://chrisrenshawportfolio.netlify.app](https://chrisrenshawportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://chrisrenshaw.hashnode.dev/](https://chrisrenshaw.hashnode.dev/)
 
 - 💬 Ask me about **My journey from social work manager to software engineer**
 
-- 📫 How to reach me **ChrisRenshaw.SoftwareEngineer@outlook.com**
+- 📫 How to reach me **CRSoftwareEngineer@outlook.com**
 
 - 📄 Know about my experiences [https://chrisrenshaw.net/](https://chrisrenshaw.net/)
 
