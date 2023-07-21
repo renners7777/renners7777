@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renners7777&label=Profile%20views&color=0e75b6&style=flat" alt="renners7777" /> </p>
 
-- 🔭 I’m currently working on [100DaysofCode_Reminder_app](https://github.com/drewlearns/100daysofcode_reminder_app)
-
-- 🌱 I’m currently learning **node.js, express, mongoDB**
+- 🌱 I’m currently learning **node.js, express, mongoDB, MVC, authentication**
 
 - 👨‍💻 All of my projects are available at [https://chrisrenshawportfolio.netlify.app](https://chrisrenshawportfolio.netlify.app)
 
@@ -15,12 +13,11 @@
 
 - 📫 How to reach me **CRSoftwareEngineer@outlook.com**
 
-- 📄 Know about my experiences [https://chrisrenshaw.net/](https://chrisrenshaw.net/)
+- 📄 Know about my experiences [https://www.chrisrenshaw.net/](https://www.chrisrenshaw.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/renners7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="renners7777" height="30" width="40" /></a>
-<a href="https://dev.to/@renners7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@renners7777" height="30" width="40" /></a>
 <a href="https://twitter.com/renners7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renners7777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chris-renshaw-renners7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-renshaw-renners7777" height="30" width="40" /></a>
 <a href="https://hashnode.com/@renners7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@renners7777" height="30" width="40" /></a>
